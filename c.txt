@@ -1,0 +1,3 @@
+New file created using github
+What string can be hilighted?
+many reserved word can be hilighted
